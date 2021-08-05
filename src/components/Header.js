@@ -11,4 +11,6 @@ function Header() {
   );
 }
 
+// .then(resp => if (resp.ok === true && resp.status === 200)? likes += 1 : )
+
 export default Header;
